@@ -10,3 +10,8 @@ Historias de usuario:
   Criterios de aceptación
   - El usuario debe ser capaz de ingresar a la web y visualizar la cartelera de películas del cine
   - La cartelera debe estar actualizada
+
+  3- Como usuario quiero reservar entradas par ver las películas
+  Criterios de aceptación
+  - El usuario debe ser capaz de reservar entradas para las películas que se están transmitiendo
+  - Se debe de asignar un asiento y un número de entrada que el cliente pueda presentar en boletería
